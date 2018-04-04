@@ -1,6 +1,0 @@
-Fior deploying, minifying, uglifying, etc.:
-ng build --prod
-
-TSLint installedand reloaded. Use before committing code to repository
-Use ctrl + .
-Use Shift + ctrl + p
